@@ -35,7 +35,7 @@ The following numerical methods are implemented in this project:
    \]
 
 ## How to Use
-1. Run the `newton_cooling_gui.m` file to launch the graphical user interface (GUI).
+1. Run the `main.m` file to launch the graphical user interface (GUI).
 2. Enter the initial temperature (T₀), environment temperature (T_env), cooling constant (k), and final time (t_final).
 3. Select the numerical method you want to use by clicking on the corresponding button.
 4. The result will appear in the output box and will also be plotted for better visualization.
